@@ -85,5 +85,6 @@ Future: Lexicographic sort (compareToIgnoreCase), partial name search, GUI
 
 Author
 Adan Shujaat Khan
-BS Software Engineering Student
+Wajahat Hassan
+BS Software Engineering Students
 SZABIST University Karachi
